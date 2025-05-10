@@ -83,3 +83,6 @@ Local storage is used to persist user votes and room information across page ref
 - **Backend**: Node.js, Express, Socket.IO
 - **State Management**: React Context API
 - **UI Components**: Custom components with Lucide React icons
+
+## Images
+![alt text](<Screenshot 2025-05-10 112856.png>) ![alt text](<Screenshot 2025-05-10 112925.png>) ![alt text](<Screenshot 2025-05-10 113025.png>) ![alt text](<Screenshot 2025-05-10 113049.png>) ![alt text](<Screenshot 2025-05-10 113107.png>) ![alt text](<Screenshot 2025-05-10 113203.png>)
